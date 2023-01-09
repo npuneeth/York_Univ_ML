@@ -1,4 +1,4 @@
-# Machine Learning in Business Context - York Univ
+# Machine Learning in Business Context - York Univ CSML 1000
 ####  Turn raw data into value by using CRISP-DM Methodology; suggest possible and plausible Machine Learning (ML) approaches to solve business problems, even with limited information
 ####  1. Supervised Learning Project: Predict Airline Delays
 ##### • Business Problem: Using Machine Learning (Binary Classification), predict which flight is likely to be delayed to help airlines plan schedules ahead to avoid bottlenecks at the airports
